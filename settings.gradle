@@ -1,0 +1,3 @@
+include ':translate'
+include ':app'
+rootProject.name = "pro"

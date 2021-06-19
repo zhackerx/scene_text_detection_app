@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pro</string>
+    <string name="translate_progress">translating...</string>
+    <string name="downloaded_models_label">Downloaded models: %l$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_message">No Text Available</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+</resources>
